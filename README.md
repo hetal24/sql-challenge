@@ -14,19 +14,14 @@
 
 * Files and Dataset
 
--- CSV Files
-    
-    Departments.csv: Contains department information.
-    
-    Dept_Emp.csv: Links employees to their respective departments.
-    
-    Dept_Manager.csv: Lists department managers.
-    
-    Employees.csv: Contains employee information.
-    
-    Salaries.csv: Lists employee salaries.
-    
-    Titles.csv: Lists employee job titles.
+    CSV Files
+       
+        Departments.csv: Contains department information.
+        Dept_Emp.csv: Links employees to their respective departments.
+        Dept_Manager.csv: Lists department managers.
+        Employees.csv: Contains employee information.
+        Salaries.csv: Lists employee salaries.
+        Titles.csv: Lists employee job titles.
 
 
 * Data Analysis(Quries)
