@@ -10,18 +10,15 @@
     
     4.Perform SQL queries to answer key analytical questions about the dataset.
 
-* Create a Entity Relationship Diagram using this table schemas.
 
-* Files and Dataset
+* CSV Files
 
-    CSV Files
-       
-        Departments.csv: Contains department information.
-        Dept_Emp.csv: Links employees to their respective departments.
-        Dept_Manager.csv: Lists department managers.
-        Employees.csv: Contains employee information.
-        Salaries.csv: Lists employee salaries.
-        Titles.csv: Lists employee job titles.
+    1.Departments.csv: Contains department information.
+    2.Dept_Emp.csv: Links employees to their respective departments.
+    3.Dept_Manager.csv: Lists department managers.
+    4.Employees.csv: Contains employee information.
+    5.Salaries.csv: Lists employee salaries.
+    6.Titles.csv: Lists employee job titles.
 
 
 * Data Analysis(Quries)
