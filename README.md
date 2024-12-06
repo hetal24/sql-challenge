@@ -1,4 +1,4 @@
-# sql-challenge
+# SQL-Challenge
 
 * Objectives
     
@@ -14,10 +14,15 @@
 * CSV Files
 
     1.Departments.csv: Contains department information.
+
     2.Dept_Emp.csv: Links employees to their respective departments.
+
     3.Dept_Manager.csv: Lists department managers.
+
     4.Employees.csv: Contains employee information.
+
     5.Salaries.csv: Lists employee salaries.
+    
     6.Titles.csv: Lists employee job titles.
 
 
